@@ -215,4 +215,11 @@ marimo/_lsp/
 __marimo__/
 
 # Streamlit
+
+# Project specific
+data/
+*.pdf
+vectorstore/
+models/
+logs/
 .streamlit/secrets.toml
